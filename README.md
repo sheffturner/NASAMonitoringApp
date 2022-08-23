@@ -23,5 +23,6 @@ Instructions: <br><br>
 <ul>
   <li>Open Terminal</li>
   <li>cd to unzipped project folder - NASAMonitoringApp</li>
-  <li>Type 'npm run ios' or 'npm run android'</li>
+  <li>Execute 'npm install'</li>
+  <li>Execute 'npm run ios' or 'npm run android'</li>
 </ul>
