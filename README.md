@@ -12,7 +12,8 @@ Instructions: <br><br>
 <ul>
   <li>Open Terminal</li>
   <li>cd to unzipped project folder - NASAMonitoringApp</li>
-  <li>Type 'npm start'</li>
+  <li>Execute 'npm install'</li>
+  <li>Execute 'npm start'</li>
   
   This will display a QR code that you can scan using the Expo Go app (can be dowloaded from the iOS and Android store)
   You will need to be on the same wireless network as your iOS/Android phone.
