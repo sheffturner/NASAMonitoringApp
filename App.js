@@ -181,7 +181,7 @@ const styles = StyleSheet.create({
   },
   wrapDot: {
     position: 'absolute',
-    bottom: 40,
+    bottom: 55,
     flexDirection: 'row',
     alignSelf: 'center',
   },
